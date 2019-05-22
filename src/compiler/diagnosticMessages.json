@@ -3923,6 +3923,10 @@
         "category": "Message",
         "code": 6217
     },
+    "'package.json' had a falsy '{0}' field.": {
+        "category": "Message",
+        "code": 6218
+    },
 
     "Projects to reference": {
         "category": "Message",
